@@ -1,7 +1,7 @@
 ### Hi there, I'm Mehedi 👋
 
 
-**mehedihasanhr/mehedihasanhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer with expertise in HTML, CSS, and JavaScript. I specialize in working with frontend frameworks such as React JS, Next Js, and state management tools like Redux and Redux RTK. I'm also experienced in working with Laravel, a PHP-based web application framework.****
 
 Here are some ideas to get you started:
 
