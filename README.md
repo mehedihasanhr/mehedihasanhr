@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/D5616AQFpW7NzDIWGVg/profile-displaybackgroundimage-shrink_350_1400/0/1676482760623?e=1681948800&v=beta&t=eh52Leni5-4uQUpcjihqBAouBrA7Y9jx801RASNCReg)
+![](https://media.licdn.com/dms/image/D5616AQFpW7NzDIWGVg/profile-displaybackgroundimage-shrink_350_1400/0/1676482760623?e=1681948800&v=beta&t=eh52Leni5-4uQUpcjihqBAouBrA7Y9jx801RASNCReg)
 
 
 ### Hi there, I'm Mehedi 👋
