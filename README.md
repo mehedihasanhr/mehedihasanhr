@@ -5,9 +5,9 @@ I'm a Frontend Developer with expertise in HTML, CSS, and JavaScript. I speciali
 
 #### Skills
   - **Languages:** HTML, CSS (including Tailwind CSS, Bootstrap, Material UI, and Chakra UI), JavaScript, TypeScript
-  - Frameworks and Libraries: React JS, Next Js, Redux, Redux RTK, Laravel
-  - Backend Technologies: Node Js, Express JS, GraphQL, SocketIO, Laravel
-  - Databases: MongoDB, MySQL, Firebase
+  - **Frameworks and Libraries:** React JS, Next Js, Redux, Redux RTK, Laravel
+  - **Backend Technologies:** Node Js, Express JS, GraphQL, SocketIO, Laravel
+  - **Databases:** MongoDB, MySQL, Firebase
 
 Here are some ideas to get you started:
 
