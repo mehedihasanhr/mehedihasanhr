@@ -8,6 +8,10 @@ I'm a Frontend Developer with expertise in HTML, CSS, and JavaScript. I speciali
   - **Frameworks and Libraries:** React JS, Next Js, Redux, Redux RTK, Laravel
   - **Backend Technologies:** Node Js, Express JS, GraphQL, SocketIO, Laravel
   - **Databases:** MongoDB, MySQL, Firebase
+ 
+#### Get in touch
+  - Personal website: mehedihridoy.com
+  - LinkedIn: linkedin.com/in/mehedihridoy
 
 Here are some ideas to get you started:
 
