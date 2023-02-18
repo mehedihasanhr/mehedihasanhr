@@ -25,6 +25,7 @@ I'm a Frontend Developer with expertise in HTML, CSS, and JavaScript. I speciali
 </a>   
 </div> 
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
