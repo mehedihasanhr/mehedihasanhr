@@ -4,13 +4,14 @@
 ### Hi there, I'm Mehedi 👋
 
 
-I'm a Frontend Developer with expertise in HTML, CSS, and JavaScript. I specialize in working with frontend frameworks such as React JS, Next Js, and state management tools like Redux and Redux RTK. I'm also experienced in working with Laravel, a PHP-based web application framework.
+I'm a Front-end developer with expertise in HTML, CSS, and JavaScript. I specialize in working with frontend frameworks such as React JS, and Next.Js, and state management tools like Redux and Redux RTK. I'm also experienced in working with Laravel, a PHP-based web application framework.
 
 #### Skills
   - **Languages:** HTML, CSS (including Tailwind CSS, Bootstrap, Material UI, and Chakra UI), JavaScript, TypeScript
   - **Frameworks and Libraries:** React JS, Next Js, Redux, Redux RTK, Laravel
   - **Backend Technologies:** Node Js, Express JS, GraphQL, SocketIO, Laravel
   - **Databases:** MongoDB, MySQL, Firebase
+  - **OS:** Linux, Window
  
 #### Connect with me  
 <div align="left">
