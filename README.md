@@ -58,18 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasanhr&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehedihasanhr&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanhr&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 - 🧾 **[getPasto](https://codecanyon.net/item/getpasto-restaurant-management-system/48961483)**  
@@ -100,3 +88,6 @@
 ---
 
 <p align="center"><b>Thanks for stopping by!</b> 🙏</p>
+
+
+
