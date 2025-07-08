@@ -12,7 +12,7 @@ I'm Mehedi, a passionate developer from Bangladesh with over 4+ years of hands-o
 
 ## 🧑‍💻 About Me
 
-- 🔭 Working as a **Front-end Developer** at [StackRover](https://stackrover.com)
+- 🔭 Working as a **Full-Stack Web Developer** at [StackRover](https://stackrover.com)
 - 🧠 Currently building a modular ERP system targeting multiple industries
 - 🌱 Exploring **Microservices**, **GraphQL**, and **GoLang**
 - 🌐 Portfolio: [mehedi.stackrover.com](https://mehedi.stackrover.com)
