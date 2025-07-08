@@ -18,27 +18,51 @@
 
 ---
 
+
 ### 🚀 Tech Stack
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+Absolutely! Below is the updated **Tech Stack** section with **large, clearly visible badges** using `style=for-the-badge`. These are uppercase, bold, and more visually prominent — perfect for a clean, professional GitHub profile.
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+---
 
-**Database**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 🚀 Tech Stack
 
-**Tools & Others**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+#### 🖥️ Frontend
+
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge\&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
+#### 🧠 Backend
+
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge\&logo=prisma)
+
+---
+
+#### 🗃️ Database
+
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+#### 🛠️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Neovim](https://img.shields.io/badge/NEOVIM-57A143?style=for-the-badge\&logo=neovim\&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLINT-4B32C3?style=for-the-badge\&logo=eslint\&logoColor=white)
+
 
 ---
 
