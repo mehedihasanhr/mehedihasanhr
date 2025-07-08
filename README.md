@@ -29,7 +29,7 @@
 
 <p align="center">
   <!-- Frontend -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,express,prisma,mongodb,mysql,postgres,docker,linux,git,figma,vite,graphql" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,express,php,laravel,prisma,mongodb,mysql,postgres,docker,linux,git,figma,vite,graphql,go" alt="Tech Stack Icons" />
 </p>
 
 ---
