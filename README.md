@@ -18,13 +18,6 @@
 
 ---
 
-
-### 🚀 Tech Stack
-
-Absolutely! Below is the updated **Tech Stack** section with **large, clearly visible badges** using `style=for-the-badge`. These are uppercase, bold, and more visually prominent — perfect for a clean, professional GitHub profile.
-
----
-
 ### 🚀 Tech Stack
 
 #### 🖥️ Frontend
