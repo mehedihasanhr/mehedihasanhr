@@ -1,11 +1,9 @@
-<h1 align="center">Hi there, I'm Mehedi Hasan 👋</h1>
+<h1 align="left">Hi there, I'm Mehedi Hasan 👋</h1>
 
-<p align="center">
+<p align="left">
   <b>Full-Stack Web Developer | Freelancer | Open Source Enthusiast</b><br/>
   Building modern, scalable web applications using React, Next.js, Node.js, and TypeScript
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -16,8 +14,6 @@
 - 💼 Fiverr: [@stackrover](https://www.fiverr.com/stackrover)
 - 🌐 Portfolio: [stackrover.com](https://stackrover.com)
 - 📫 Reach me at: `mehedi.stackrover@gmail.com`
-
----
 
 ## 🚀 Tech Stack
 
@@ -47,8 +43,6 @@
   <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go Lang" /></a>
 </p>
 
----
-
 ## 📌 Featured Projects
 
 - 🧾 **[getPasto](https://codecanyon.net/item/getpasto-restaurant-management-system/48961483)**  
@@ -57,7 +51,6 @@
 - 💳 **[paySnap](https://codecanyon.net/item/paysnap-wallet-system-with-card-investment/50173536)**  
   *Wallet, card & investment platform with secure transaction flow*
 
----
 
 ## 🌐 Let's Connect
 
